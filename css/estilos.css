@@ -1,16 +1,19 @@
 body   
 {
-        color: rgba(0, 224, 138, 0.884);
+        color: rgba(6, 8, 146, 0.884);
         text-align: center;
-        font-family: Arial;
+        font-family: "Arial";
+        font-size: 16px;
         margin: 0;
         padding: 0;
         
 }
 
-#container 
+#cabecera
 
 {
+        background: #33a;
+        box-shadow: 0px 2px 50px rgba(0, 0, 0, 0, 5);
         width: 70%;
         padding: 1em;
         text-align: left;
