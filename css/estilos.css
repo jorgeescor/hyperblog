@@ -23,6 +23,8 @@ body
 #container
 
 {
+        background: #33a;
+        box-shadow: 0px 2px 50px rgba(0, 0, 0, 0, 5);
         width: 70%;
         padding: 1em;
         text-align: left;
