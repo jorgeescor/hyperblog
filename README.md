@@ -6,7 +6,7 @@
 
 ------------
 * Creado por el increible Jorge
-
+*Incluye give aways
 Obligatoriamente no debes de seguir esto, pero es lo más recomendable para que no tengas confusiones a la hora de empezar a aprender. 
 
 ``
