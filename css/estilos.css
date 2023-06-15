@@ -1,6 +1,6 @@
 body   
 {
-        color: #333;
+        color: #09111b;
         text-align: center;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
@@ -10,14 +10,20 @@ body
 
 #cabecera
 {
-        background: #33A;
+        background: rgb(214, 120, 11) url("../images/trekking.png");
+        background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),url("../../media/examples/lizard.png");
         box-shadow: 13px 26px 53px 7px rgba(0,0,0,0.56);
         color: white;
         font-weight: bold;
         margin: 0;
-        padding: 0.5em;
+        padding: 0.5em 0 0.5em 2em;
 }
 
+#cabecera #logo
+{
+        width: 20px;
+        vertical-align: middle;
+}
 #cabecera #tagline
 {
         margin: 0 0 0 1em;
@@ -42,5 +48,6 @@ body
 
 #post
 {
+        background: white;
         padding: 1em;
 }
